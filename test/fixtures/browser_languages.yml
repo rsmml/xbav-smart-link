@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  language: MyString
+  extension: MyString
+  csmart_link_title_variant: MyString
+  smart_link: one
+
+two:
+  language: MyString
+  extension: MyString
+  csmart_link_title_variant: MyString
+  smart_link: two
